@@ -1,0 +1,6 @@
+name: CAAchievements
+version: 1.0
+author: Jannis2711
+main: de.cyberanimals.caachievements
+depend: [CyberCore]
+loadbefore: [CyberCore]
